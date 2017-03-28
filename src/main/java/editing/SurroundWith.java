@@ -1,15 +1,16 @@
 package editing;
 
-//CTRL-ALT-T
+//CTRL-ALT-T: Surround with
 public class SurroundWith {
     public void ifElse() {
         System.out.println("CTRL-ALT-T me");
     }
 
     public void exceptions() {
-//        throw new Exception();
+//todo uncomment        throw new Exception();
     }
 
+    //CTRL-ALT-J: Insert live template --> works too
     public void liveTemplate() {
         new Thread(new Runnable() {
             public void run() {
@@ -17,4 +18,6 @@ public class SurroundWith {
             }
         }).start();
     }
+
+    //CTRL-J below to make a main
 }
