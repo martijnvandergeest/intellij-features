@@ -20,4 +20,14 @@ public class CodeModification {
     public void removePartialWords() {
 
     }
+
+    //CTRL-/
+    public void commentMe() {
+
+    }
+
+    //CTRL-SHIFT-/
+    public void commentBlockMe() {
+
+    }
 }
