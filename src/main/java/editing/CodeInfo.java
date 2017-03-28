@@ -4,12 +4,12 @@ import java.awt.*;
 
 public class CodeInfo {
 
-    //ON METHOD PARAM
-    public void ctrlP() {
+    //CTRL-P: Parameter info
+    public void parameterInfo() {
         System.out.println("CTRL-P");
     }
 
-    //ON ANY CLASS/METHOD/..
+    //CTRL-Q: Quick documentation lookup
     public void ctrlQ() {
         System.out.println();
 

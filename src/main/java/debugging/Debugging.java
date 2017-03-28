@@ -2,7 +2,7 @@ package debugging;
 
 //SHIFT-F10: Run
 //ALT-SHIFT-F10: Run configuration
-//CTRL-SHIFT-F10: Smart run?
+//CTRL-SHIFT-F10: Smart run based on ?current context?
 //SHIFT-F9: Debug
 //ALT-SHIFT-F9: Debug configuration
 public class Debugging {

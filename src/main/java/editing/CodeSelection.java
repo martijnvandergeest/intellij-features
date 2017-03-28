@@ -1,17 +1,17 @@
 package editing;
 
-//CTRL-SHIFT-NUMPAD+ / CTRL-SHIFT-NUMPAD-
+//CTRL-SHIFT-NUMPAD+ / CTRL-SHIFT-NUMPAD- : Expand/Collapse ALL
 public class CodeSelection {
 
-    //CTRL-W / CTRL-SHIFT-W
-    //CTRL-SHIFT-[ / CTRL-SHIFT-]
+    //CTRL-W / CTRL-SHIFT-W : Select / Deselect code-block(s)
+    //CTRL-SHIFT-[ / CTRL-SHIFT-] : Select till begin/end of code-block(s)
     public void someMethod() {
         for(int i = 0; i < 10; i++) {
             System.out.println(i);
         }
     }
 
-    //CTRL-NUMPAD+ / CTRL-NUMPAD-
+    //CTRL-NUMPAD+ / CTRL-NUMPAD- : Expand/Collapse code block
     public void someExtremelyLongMethod() {
         String var1 = "";
         String var2 = "";

@@ -3,7 +3,7 @@ package navigation;
 public class Other {
     /* COOL/IMPORTANT
 
-        //CTRL-ALT-SHIFT-N: go to symbol --> enter some method name and see the magic
+        //CTRL-ALT-SHIFT-N: Go to symbol --> enter some method name and see the magic
         //CTRL-E: Recent Files
         //CTRL-SHIFT-BACKSPACE: Go to last edit location
 
@@ -13,8 +13,8 @@ public class Other {
 
     */
 
-    //CTRL-N: go to class
-    //CTRL-SHIFT-N: go to file
+    //CTRL-N: Go to class
+    //CTRL-SHIFT-N: Go to file
 
     //ALT-LEFT / ALT-LEFT: Go to left/right editor tab
 

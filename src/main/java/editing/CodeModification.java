@@ -1,22 +1,24 @@
 package editing;
 
 public class CodeModification {
-    //CTRL-SHIFT-U
+    //CTRL-SHIFT-U: Toggle case for word
     private static String case_me = "";
 
-    //CTRL-X
-    public void ctrlX() {
+    //CTRL-X: Cut
+    public void cutStuff() {
 
     }
 
-    //CTRL-C / CTRL-D
-    //CTRL-V / CTRL-SHIFT-V
+    //CTRL-C: Copy
+    //CTRL-D: Duplicate
+    //CTRL-V: Paste
+    //CTRL-SHIFT-V: Paste buffered
     public void copyStuff() {
-        String easyCopyMe = "";
+        String copyMe = "";
     }
 
-
-    //CTRL-DELETE / CTRL-BACKSPACE
+    //CTRL-DELETE: Delete to word end
+    //CTRL-BACKSPACE: Delete to word start
     public void removePartialWords() {
 
     }

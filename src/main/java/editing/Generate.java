@@ -1,6 +1,8 @@
 package editing;
 
-//ALT-INSERT for generate list popup / CTRL-O override method / CTRL-I implement method
+//ALT-INSERT: Generate list popup
+//CTRL-O: Override method
+//CTRL-I: Implement method
 public class Generate {
 //TODO public class Generate extends AbstractList {
     private String id;
